@@ -1,4 +1,5 @@
-### Hi there 👋
+# ![https://estuardoagustin.com](https://www.estuardoagustin.com/wp-content/uploads/2022/03/cropped-logo-1-e1647217181143.png) Hola, mi nombre es Estuardo Agustin  👋
+### Freelance &  Engineer
 
 <!--
 **EstuardoAgustin/EstuardoAgustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
