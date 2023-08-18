@@ -1,4 +1,4 @@
-# ![https://estuardoagustin.com](https://www.estuardoagustin.com/wp-content/uploads/2022/03/1646615504980-1536x1536.png) Hola, mi nombre es Estuardo Agustin  👋
+# ![https://estuardoagustin.com|100](https://www.estuardoagustin.com/wp-content/uploads/2022/03/1646615504980-1536x1536.png) Hola, mi nombre es Estuardo Agustin  👋
 ### Freelance &  Engineer
 
 
@@ -6,7 +6,7 @@ Emprendedor, entusiasta, sociable, confiable y respetuoso, siempre con mentalida
 con la virtud de ser autodidacta ante los problemas que se me presentan.
 Me desenvuelvo de una forma rápida ante los retos y siempre proponiendo soluciones eficientes, con visión de progreso en diversos ámbitos tanto académicos como laborales.
 
-
+Como emprendedor, cuento con una mentalidad de mejora continua, para lo cual deseo proponer soluciones tecnológicas para el progreso en diversos ámbitos, el conocimiento es de todos y para todos
 
 
 
