@@ -1,4 +1,4 @@
-# ![https://estuardoagustin.com]([https://www.estuardoagustin.com/wp-content/uploads/2022/03/cropped-logo-1-e1647217181143.png](https://www.estuardoagustin.com/wp-content/uploads/2022/03/1646615504980-1536x1536.png)) Hola, mi nombre es Estuardo Agustin  👋
+# ![https://estuardoagustin.com](https://www.estuardoagustin.com/wp-content/uploads/2022/03/1646615504980-1536x1536.png) Hola, mi nombre es Estuardo Agustin  👋
 ### Freelance &  Engineer
 
 
