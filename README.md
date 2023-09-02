@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-estuardoagustin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/estuardoagustin)
 [![Instagram](https://img.shields.io/badge/Instagram-@Ing.EstuardoAgustin-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Ing.EstuardoAgustin)
 [![YouTube](https://img.shields.io/badge/YouTube-Ing.EstuardoAgustin-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@Ing.EstuardoAgustin)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR6RBrpG07PktxwePmIy9Jw)
 [![Web](https://img.shields.io/badge/Web-estuardoagustin.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://estuardoagustin.com)
 
 
