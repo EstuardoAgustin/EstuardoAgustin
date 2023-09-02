@@ -12,12 +12,57 @@
 ### Freelance &  Engineer
 
 
+Soy Ingeniero en Sistemas 
 
-Emprendedor, entusiasta, sociable, confiable y respetuoso, siempre con mentalidad de mejora continua
-con la virtud de ser autodidacta ante los problemas que se me presentan.
-Me desenvuelvo de una forma rápida ante los retos y siempre proponiendo soluciones eficientes, con visión de progreso en diversos ámbitos tanto académicos como laborales.
+Emprendedor, entusiasta y sociable, Me desenvuelvo de una forma rápida ante los retos y siempre busco soluciones eficientes, 
+con visión autodidacta ante los problemas que se me presentan.
 
-Como emprendedor, cuento con una mentalidad de mejora continua, para lo cual deseo proponer soluciones tecnológicas para el progreso en diversos ámbitos, el conocimiento es de todos y para todos
+
+2015 Como emprendedor:
+Inicie un proyecto para crear un ISP Inalambrica llamada "Tuinternet SmartSoluciones" la cual busca llevar accesos a internet a lugares remotos, los cuales por no represetnar un recurso economicos por las multinacionales son olvidadas, para lo cual deseo proponer soluciones tecnológicas para el progreso en diversos ámbitos.
+Habilidades en Redes 
+	- Disenio, despliegue y contrucciones de Redes WISP 
+	- Gestion y Administracion de REDES LAN, MAN con Mikrotik 
+	- Habilidades de Tecnologias Inalambricas UBIQUITI, Mikrotik, CISCO
+	- Adminsitracion de Servidores Linux
+
+2018 Consultor y Administrador de Redes:
+la experiencia brindada en el despliuegue de un ISP inalambrico me brinda la capacidad de brindar consultorias a empresas emergentes que buscan cubrir la creciente necesidad de servicios de internet en Guatemala, a lo cual brindo multiples consultorias para la cracion y despligue de ISP's inalambricos en Totonicapan, Quetzaltenango, Jutiapa, San Marcos, Guatemala y multiples consultorias en Peru, Mexico y Guatemala.
+
+2019 Curso en Seguridad Informatica, en la Universidad tomo 1 anio de la Maestria en Seguridad informatica, para mejorar mis conocimientos y habilidades para la mitigacion riesgos y proteccion de datos en REDES ISP
+
+2020 Consultor Tecnologico en MacroVision:
+Inicio como consultor tecnologico de una cadena de Clinicas Opticas, para la Estructuracion informatica y la centralizacion de la informacion de multiples clinicas, al mismo tiempo incio el disenio, desarollo y contruccion de un sistema basado en la WEB para la centralizacion de la informacion con caracteristicas funcionales como:
+	- Multisucursal 
+	- Area de Ventas
+ 	- Gestion de Clientes
+ 	- Inventario Ventas y Compras
+ 	- Proveedores
+ 	- Historiales Clinicos
+	- Reportes y Estadisticas de la cadena de clinicas Opticas
+ Basado en PHP, Apache, MariaDB
+
+2021 Emprendo un camino como freelancer desarrollando pequenio proyectos y sistemas de Venta WEB
+	- AutoParkin: sistema de Control de estacionamientos 
+	- SisVentas: Sistema de Ventas (Produccion)
+	- TuFarmacia: Control de inventario para farmacias (Produccion)
+	- 
+
+
+2022 Titulacion como Ingeniero en Sistemas una carrera que me ha apasionado de incio a fin y en la cual a lo largo de esta, he trabajado con multiples tecnologias de desarrollo y realizando microporyecto
+como:
+	- Sistemas de Venta WEB usando PHP, APACHE, MYSQL, JQUERY
+	- Desarollo de API con Node.JS
+ 	- JAVA: Desarrollo de aplicacion para escritorio
+  	- C#: desarollo de aplicaciones matematicas
+
+
+2023 Tome la decision de Mejorar mis Habilidades y desarrollar nuevas Skills como Desarrollador de Software enfocandome en un 
+como:
+Metodologias de trabajo SCRUM
+Control de Verionamiento Git con el flujo de trabajo Git Flow 
+
+Tomando cursos de 
 
 
 ## Tecnologías :computer: :
