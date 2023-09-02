@@ -1,9 +1,12 @@
 # ![https://estuardoagustin.com](https://github.com/EstuardoAgustin/EstuardoAgustin/blob/main/banner%20EstuardoAgustin.png?raw=true) Hola, mi nombre es Estuardo Agustin  👋
 
-[![TikTok](https://img.shields.io/badge/TikTok-@estuardoagustinm-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@estuardoagustinm)
+[![TikTok](https://img.shields.io/badge/TikTok-@ing.estuardoagustin-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@Ing.EstuardoAgustin)
 [![Facebook](https://img.shields.io/badge/Facebook-@Ing.EstuardoAgustin-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/Ing.EstuardoAgustin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-estuardoagustin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/estuardoagustin)
+[![Instagram](https://img.shields.io/badge/Instagram-@Ing.EstuardoAgustin-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Ing.EstuardoAgustin)
+[![YouTube](https://img.shields.io/badge/YouTube-Ing.EstuardoAgustin-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@Ing.EstuardoAgustin)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR6RBrpG07PktxwePmIy9Jw)
+[![Web](https://img.shields.io/badge/Web-estuardoagustin.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://estuardoagustin.com)
 
 
 
