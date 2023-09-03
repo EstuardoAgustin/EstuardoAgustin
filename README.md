@@ -14,7 +14,7 @@ con una visión autodidacta ante los problemas que se me presentan.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 	![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MikroTik_Logo_%282022%29.svg/2560px-MikroTik_Logo_%282022%29.svg.png alt="drawing" width="15%"/>
+<img src=https://www.batna24.com/products/pages/testy-urzadzen/mikrotik-hap-ac3-wifi/mikrotik%20red%20logo.webp alt="drawing" width="7%"/>
 
 ## About me :
 2023 Tome la decisión de Mejorar mis Habilidades y desarrollar nuevas Skills para obtener un portafolio de Desarrollador de Software completo enfocándome en:
