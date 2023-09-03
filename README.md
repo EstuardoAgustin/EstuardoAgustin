@@ -1,4 +1,4 @@
-# ![https://estuardoagustin.com](https://github.com/EstuardoAgustin/EstuardoAgustin/blob/main/banner%20EstuardoAgustin.png?raw=true) Hola, mi nombre es Estuardo Agustin  :v:
+# ![https://estuardoagustin.com](https://github.com/EstuardoAgustin/EstuardoAgustin/blob/22cfc4f839376e8af0859cd7b85f39eb40026041/Banner%20Redes%20Estuardo%20Agustin.jpg) Hola, mi nombre es Estuardo Agustin  :v:
 
 [![TikTok](https://img.shields.io/badge/TikTok-@ing.estuardoagustin-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@Ing.EstuardoAgustin)
 [![Facebook](https://img.shields.io/badge/Facebook-@Ing.EstuardoAgustin-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/Ing.EstuardoAgustin)
